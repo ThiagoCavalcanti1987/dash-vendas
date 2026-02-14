@@ -30,11 +30,12 @@ Este projeto faz parte da disciplina de **Análise e Visualização de Dados**.
 ---
 
 ## 📂 Estrutura do Projeto
+
 dashboard-vendas/
-│
-├── atividade_final.py
-├── vendas_visualizacao_basica_com_nomes.csv
-└── README.md
+  │
+  ├── atividade_final.py
+  ├── vendas_visualizacao_basica_com_nomes.csv
+  └── README.md
 
 
 ---

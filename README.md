@@ -30,12 +30,16 @@ Este projeto faz parte da disciplina de **Análise e Visualização de Dados**.
 ---
 
 ## 📂 Estrutura do Projeto
-dashboard-vendas/atividades-python/
+
+```
+dashboard-vendas/
 │
 ├── atividade_final.py
 ├── vendas_visualizacao_basica_com_nomes.csv
+├── requirements.txt
 └── README.md
 
+```
 
 ---
 
@@ -96,7 +100,7 @@ python -m pip install streamlit pandas matplotlib seaborn
 ### 2️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/dashboard-vendas.git
+git clone https://github.com/ThiagoCavalcanti1987/dash-vendas.git
 cd dashboard-vendas
 python -m streamlit run atividade_final.py
 ```

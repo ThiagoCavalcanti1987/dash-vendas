@@ -36,7 +36,9 @@ dashboard-vendas/
 │
 ├── atividade_final.py
 ├── vendas_visualizacao_basica_com_nomes.csv
+├── requirements.txt
 └── README.md
+
 ```
 
 ---
